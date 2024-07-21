@@ -562,8 +562,8 @@ int main()
     {
         iteration++;
         // calculate_new_position(matrix, circles, name_id);
-        std::cerr << "x " + circles[86].name << circles[86].district_x << std::endl;
-        std::cerr << "y " + circles[86].name << circles[86].district_y << std::endl;
+        //std::cerr << "x " + circles[86].name << circles[86].district_x << std::endl;
+        //std::cerr << "y " + circles[86].name << circles[86].district_y << std::endl;
         for (int i = 0; i < matrix.size(); i++)
         {
             sum_x = 0.0;
